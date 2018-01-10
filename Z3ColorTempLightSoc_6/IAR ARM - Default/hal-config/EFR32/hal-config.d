@@ -1,0 +1,173 @@
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\hal-config.c
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\compiler\iar.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\intrinsics.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\ycheck.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stddef.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\yvals.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Defaults.h
+hal-config/EFR32/hal-config.o: C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Config_Normal.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Product.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\xencoding_limits.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Threads.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\ysizet.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stdint.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stdbool.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\string.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Product_string.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\em_device.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p332f1024gl125.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cm4.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmInstr.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\cmsis_iar.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmFunc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmSimd.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\system_efr32mg12p.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_msc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_emu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rmu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_cmu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_crypto.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpio_p.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpio.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs_ch.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_ldma_ch.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_ldma.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_fpueh.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpcrc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_timer_cc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_timer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_usart.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_leuart.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_letimer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_cryotimer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_pcnt.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_i2c.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_adc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_acmp.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_idac.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_vdac_opa.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_vdac.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_csen.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_st.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_buf.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_ch.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc_cc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc_ret.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_wdog_pch.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_wdog.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_etm.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_smu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_trng.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_dma_descriptor.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_devinfo.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_romtable.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs_signals.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_dmareq.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_af_ports.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_af_pins.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\regs.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\micro-features.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro-features.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\compiler\interrupts-efm32.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_core.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_common.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\generic\compiler\platform-common.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\hal.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\generic\em2xx-reset-defs.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro-common.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_mpu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_assert.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\reset-def.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro-common.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_gpio.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_bus.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\common\inc\ecode.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\nvic-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\efr32\nvic-config-series1-config2.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\emlib_config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6_board.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\hal-config\hal-config-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\hal-config\zigbee-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\pta.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\antenna\antenna.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\adc\adc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\button.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\buzzer\buzzer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\crc.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\endian.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\led.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\random.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\serial.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\ember-configuration-defaults.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\util\config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\security\security-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-static-struct.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\error.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\error-def.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\zll-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\rf4ce-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\gp-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_usart.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\uartdrv\inc\uartdrv.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_leuart.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_cmu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\uartdrv_config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\dmadrv\inc\dmadrv.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_ldma.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\dmadrv_config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\usb\em_usb.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\usb\usbconfig.h
+hal-config/EFR32/hal-config.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\uchar.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com-serial.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-debug.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\com_device.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\efr32\com_device.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com_queue_size.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\spi.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\system-timer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-eeprom.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\token.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\token.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\mfg-token.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\token-manufacturing.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\afv2-mfg-token.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\token-stack.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\token-phy.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\zll\zll-token-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\rf4ce\rf4ce-token-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\gp\gp-token-config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\afv2-token.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\util\tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\include\af-types.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\enums.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6_tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\bulb-ui\bulb-ui-tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\configuration-server\configuration-server-tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\manufacturing-library-cli\manufacturing-library-cli-tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin\reporting\reporting-tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin\scenes\scenes-tokens.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface-app.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface-standalone.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_errorcode.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_reset_info.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\application_properties.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface_parser.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface_storage.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\core\btl_util.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\diagnostic.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\symbol-timer.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_emu.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com_config.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com_vcom.h
+hal-config/EFR32/hal-config.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\radio\rail_lib\chip\efr32\rf\common\cortex\pti.h

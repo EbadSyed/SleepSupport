@@ -1,0 +1,8 @@
+INFO:root:Creation of 32 bit srec file:  "C:\PROGRA~2\IARSYS~1\EMBEDD~1.5\arm/bin/ielftool.exe" "Z3ColorTempLightSoc_6.out" --srec --srec-s3only "Z3ColorTempLightSoc_6.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "Z3ColorTempLightSoc_6.gbl" --app "Z3ColorTempLightSoc_6.s37" --device EFR32MG12P332F1024GL125
+INFO:root:Creation of ota file:  "C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\..\..\..\protocol\zigbee_5.10\tool\image-builder\image-builder-windows.exe" --create "Z3ColorTempLightSoc_6.ota" --version 0x30 --manuf-id 0x1002 --image-type 0xa003 --tag-id 0x0000 --tag-file "Z3ColorTempLightSoc_6.gbl" --string "EBL Z3ColorTempLightSoc_6"
+INFO:root:OTA file has been created
+INFO:root:Creation of 32 bit srec file:  "C:\PROGRA~2\IARSYS~1\EMBEDD~1.5\arm/bin/ielftool.exe" "Z3ColorTempLightSoc_6.out" --srec --srec-s3only "Z3ColorTempLightSoc_6.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe gbl create "Z3ColorTempLightSoc_6.gbl" --app "Z3ColorTempLightSoc_6.s37" --device EFR32MG12P332F1024GL125
+INFO:root:Creation of ota file:  "C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\..\..\..\protocol\zigbee_5.10\tool\image-builder\image-builder-windows.exe" --create "Z3ColorTempLightSoc_6.ota" --version 0x30 --manuf-id 0x1002 --image-type 0xa003 --tag-id 0x0000 --tag-file "Z3ColorTempLightSoc_6.gbl" --string "EBL Z3ColorTempLightSoc_6"
+INFO:root:OTA file has been created
