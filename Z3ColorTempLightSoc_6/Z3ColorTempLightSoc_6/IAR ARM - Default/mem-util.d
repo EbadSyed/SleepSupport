@@ -1,0 +1,169 @@
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\generic\mem-util.c
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\compiler\iar.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\intrinsics.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\ycheck.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stddef.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\yvals.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Defaults.h
+mem-util.o: C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Config_Normal.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Product.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\xencoding_limits.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Threads.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\ysizet.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stdint.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\stdbool.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\string.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\DLib_Product_string.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\em_device.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p332f1024gl125.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cm4.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmInstr.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\cmsis_iar.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmFunc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\CMSIS\Include\core_cmSimd.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\system_efr32mg12p.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_msc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_emu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rmu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_cmu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_crypto.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpio_p.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpio.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs_ch.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_ldma_ch.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_ldma.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_fpueh.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_gpcrc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_timer_cc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_timer.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_usart.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_leuart.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_letimer.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_cryotimer.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_pcnt.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_i2c.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_adc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_acmp.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_idac.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_vdac_opa.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_vdac.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_csen.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_st.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_buf.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense_ch.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_lesense.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc_cc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc_ret.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_rtcc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_wdog_pch.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_wdog.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_etm.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_smu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_trng.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_dma_descriptor.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_devinfo.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_romtable.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_prs_signals.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_dmareq.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_af_ports.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\Device\SiliconLabs\EFR32MG12P\Include\efr32mg12p_af_pins.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\regs.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\micro-features.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro-features.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\compiler\interrupts-efm32.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_core.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_common.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\generic\compiler\platform-common.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\ember-configuration-defaults.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\util\config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\security\security-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-static-struct.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\error.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\error-def.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\zll-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\rf4ce-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\gp-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\hal.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\generic\em2xx-reset-defs.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\micro-common.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_mpu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_assert.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\reset-def.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\micro-common.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_gpio.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_bus.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\common\inc\ecode.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\nvic-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\efr32\nvic-config-series1-config2.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\emlib_config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6_board.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\hal-config\hal-config-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\hal-config\zigbee-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\pta.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\antenna\antenna.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\adc\adc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\button.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\buzzer\buzzer.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\crc.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\endian.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\led.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\random.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\serial.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_usart.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\uartdrv\inc\uartdrv.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_leuart.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_cmu.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\uartdrv_config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emdrv\dmadrv\inc\dmadrv.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\emlib\inc\em_ldma.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\config\dmadrv_config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\usb\em_usb.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\usb\usbconfig.h
+mem-util.o: c:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 7.5\arm\inc\c\uchar.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com-serial.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\include\ember-debug.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\com_device.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\efr32\com_device.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\plugin\serial\com_queue_size.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\spi.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\system-timer.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-eeprom.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\token.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\token.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\mfg-token.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\cortexm3\efm32\token-manufacturing.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\afv2-mfg-token.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\token-stack.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\config\token-phy.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\zll\zll-token-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\rf4ce\rf4ce-token-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\stack\gp\gp-token-config.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\afv2-token.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\util\tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\include\af-types.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\enums.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\app\builder\Z3ColorTempLightSoc_6\Z3ColorTempLightSoc_6_tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\bulb-ui\bulb-ui-tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\configuration-server\configuration-server-tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin-soc\manufacturing-library-cli\manufacturing-library-cli-tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin\reporting\reporting-tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\protocol\zigbee_5.10\app\framework\plugin\scenes\scenes-tokens.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface-app.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\bootloader-interface-standalone.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_errorcode.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_reset_info.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\application_properties.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface_parser.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\api\btl_interface_storage.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\core\btl_util.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\diagnostic.h
+mem-util.o: C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\base\hal\micro\symbol-timer.h
